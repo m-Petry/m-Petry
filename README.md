@@ -13,11 +13,11 @@
 
 <br>
 
-- A passionate self-taught Web developer;
-- I'm Web Developer located in Porto Alegre, RS - Brazil;
+- A passionate self-taught Web Developer;
+- I am 33 years old & located in Porto Alegre, RS - Brazil;
 - Personal website [link](https://marcelopetry.com)
-- I’m currently open for an Intern or Jr opportunity in web development; this is my [reduced resume](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing)
-
+- I’m currently open for an Internship or Jr opportunity in development. This is my [reduced resume](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing);
+- My full qualifications you can find on [LinkedIn](https://linkedin.com/m-petry);
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
