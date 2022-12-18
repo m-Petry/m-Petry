@@ -17,12 +17,11 @@
 - I worked for more than [10 years in public administration](https://www.linkedin.com/in/m-petry/details/experience/) in the Federal Government of Brazil;
 - I am currently open for an `internship` or `Jr development` opportunity;
 - My `personal website` you can see in this [link](https://marcelopetry.com);
-- Here you can dowload the [short resume](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing);
-- My `full qualifications` you can find on [LinkedIn](https://linkedin.com/m-petry);
+- You can dowload the [short resume](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing) & see my `full qualifications` on [LinkedIn](https://linkedin.com/m-petry);
 - Any `questions` you may have, please [get in touch 😄](https://api.whatsapp.com/send/?phone=5551994085461&text=Msg+from+the+portfolio+website&type=phone_number&app_absent=0).
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+-----
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -96,7 +95,6 @@
 -----
 
 <br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -130,9 +128,6 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 <br>
 
 <div align='center'>
@@ -142,6 +137,4 @@
 <br>
 <br>
 
----
-
-<br>
+-----
