@@ -2,20 +2,21 @@
 <h1 align="center"><b>Hi , I'm Marcelo Schäffer Petry, Web Developer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+Work+Is+Based+On+Details;++;Self-taught+Web+Developer;Information+Systems+Student;Active+Learner+&+Researcher;I'm+passionate+about+technology"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=604EF7&size=25&center=true&vCenter=true&width=600&height=100&lines=My+Work+Is+Based+On+Details;Self-taught+Web+Developer;Information+Systems+Student;Active+Learner+&+Researcher;I'm+Passionate+About+Technology"></a>
 </p>
 <br>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px><b> About</b>:
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate self-taught Web Developer;
 - I am 33 years old & I live in Porto Alegre, RS - Brazil;
-- Personal website [link](https://marcelopetry.com)
-- I’m currently open for an Internship or Jr opportunity in development. This is my [reduced resume](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing);
-- My full qualifications you can find on [LinkedIn](https://linkedin.com/m-petry);
+- I’m currently open for an Internship or Jr opportunity in development;
+- Personal website [link](https://marcelopetry.com);
+- This is my [reduced resume](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing);
+- My full qualifications you can find on [LinkedIn](https://linkedin.com/m-petry).
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -102,7 +103,7 @@
 
 <li>
 <a href="https://linkedin.com/in/m-petry" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  m-Petry-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  mPetry-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
