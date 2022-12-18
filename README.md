@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=604EF7&size=25&center=true&vCenter=true&width=600&height=100&lines=My+Work+Is+Based+On+Details;Self-taught+Web+Developer;Information+Systems+Student;Active+Learner+&+Researcher;I'm+Passionate+About+Technology"></a>
 </p>
-<br>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px><b> About</b>:
 
@@ -13,10 +12,14 @@
 <br>
 
 - I am 33 years old & I live in Porto Alegre, RS - Brazil;
-- I’m currently open for an Internship or Jr opportunity in development;
-- Personal website [link](https://marcelopetry.com);
-- This is my [reduced resume](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing);
-- My full qualifications you can find on [LinkedIn](https://linkedin.com/m-petry).
+- I'm studying my second graduation, this time it's `Bachelor in Information Systems` with completion scheduled for 2023/02;
+- I have more than [40 IT certificates](https://www.linkedin.com/in/m-petry/details/certifications/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAACuFCPwBdhG7sdWP3hQ_t86PkPH-sSWPofQ) that add up to more than 2,000 hours;
+- I worked for more than [10 years in public administration](https://www.linkedin.com/in/m-petry/details/experience/) in the Federal Government of Brazil;
+- I am currently open for an `internship` or `Jr development` opportunity;
+- My `personal website` you can see in this [link](https://marcelopetry.com);
+- Here you can dowload the [short resume](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing);
+- My `full qualifications` you can find on [LinkedIn](https://linkedin.com/m-petry);
+- Any `questions` you may have, please [get in touch 💬](https://api.whatsapp.com/send/?phone=5551994085461&text=Msg+from+the+portfolio+website&type=phone_number&app_absent=0).
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
