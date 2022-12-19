@@ -19,6 +19,7 @@ jobs:
           locale: "pt-BR"
           time_zone: "America/Sao_Paulo"
           output_dir: "generated_files"
+          show_post_count: "false"
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
