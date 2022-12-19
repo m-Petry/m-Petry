@@ -79,7 +79,7 @@
 <div align="center">
 
 <a href="https://github.com/m-petry/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=m-Petry&theme=tokyonight&border_radius=5&mode=weekly" width="400" align="center"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=m-Petry&theme=tokyonight&border_radius=5" width="400" align="center"/>
 	<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-Petry&show_icons=true&locale=en&layout=compact&line_height=20&title_color=70A4FB&icon_color=2234AE&text_color=D3D3D3&bg_color=1A1B27" width="375"  alt="m-Petry" align="center"/>
 
