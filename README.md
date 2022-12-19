@@ -31,23 +31,34 @@
 - **Full Stack Development**:
     
 	![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+	![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 	![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-	![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-	![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+	![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=purple)&nbsp;
+	![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)\
 	![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 	![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-	![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-<br>
+	![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+	![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=1572B6)&nbsp;
+	![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
+	![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe)&nbsp;
+	![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
+	![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=008CDD)&nbsp;
 
 - **Cloud Hosting**:
 
 	![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br>
+	![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
+	![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=black)&nbsp;
+	![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+	
 
 - **Softwares and Tools**:
 
-	![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 	![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+	![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+	![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
+	![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=008cdd)&nbsp;
+	![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 <br>
 	
 - **Extras**:
@@ -57,7 +68,7 @@
 
 -----
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="top" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="35"><b> Github Stats</b>
 <br>
 
 <div align="center">
