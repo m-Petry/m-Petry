@@ -13,7 +13,7 @@
 
 - I am 33 years old & I live in Porto Alegre, RS - Brazil;
 - I'm studying my second degree course, this time it's `Bachelor in Information Systems` with completion scheduled for 2023/02;
-- I have more than [40 IT certificates](https://www.linkedin.com/in/m-petry/details/certifications/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAACuFCPwBdhG7sdWP3hQ_t86PkPH-sSWPofQ) that add up to more than 2,000 hours;
+- I have more than [40 IT certificates](https://www.linkedin.com/in/m-petry/details/certifications/) that add up to more than 2,000 hours;
 - I worked for more than [10 years in public administration](https://www.linkedin.com/in/m-petry/details/experience/) in the Federal Government of Brazil;
 - I am currently open for an `internship` or `Jr development` opportunity;
 - My `personal website` you can see in this [link](https://marcelopetry.com);
