@@ -21,13 +21,13 @@
 - Any `questions` you may have, please [get in touch 😄](https://api.whatsapp.com/send/?phone=5551994085461&text=Msg+from+the+portfolio+website&type=phone_number&app_absent=0).
 <br><br>
 -----
-<br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
-<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width ="25"><b> Tech Stack</b>
 
 <p align="center">
-
+<br>
+	
 - **Full Stack Development**:
     
 	![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -57,10 +57,7 @@
 
 -----
 
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="top" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -77,9 +74,8 @@
 
 -----
 
-<br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"><b>Let's Connect!</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" align="center" width ="50"><b>Let's Connect!</b>
 <br>
 <div align='left'>
 
@@ -90,7 +86,7 @@
 <br>
 
 <a href="mailto:marcelospetry@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  marcelospetry-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  marcelospetry-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 10px;" />
 </a>
 </div>
 
