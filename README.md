@@ -93,6 +93,12 @@
 
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" align="center" width ="50"><b>Let's Connect!</b>
+
+
+<a href="https://marcelopetry.com" target="_blank">
+<img src="https://img.shields.io/badge/portfolio:  website-%2300acee.svg?color=161616&style=for-the-badge&logo=monster&logoColor=white" alt=portfolio-website style="margin-bottom: 5px;"/>
+</a>
+
 <br>
 <div align='left'>
 
@@ -107,12 +113,6 @@
 </a>
 </div>
 
-<br>
-
-<div align='center'>
-</b>
-
-</div>
 <br>
 
 -----
