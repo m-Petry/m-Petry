@@ -1,20 +1,26 @@
+name: Update example images
 on:
   push:
   schedule:
     - cron: "0 */6 * * *"
 jobs:
-  blog:
+  run:
     runs-on: ubuntu-latest
-    name: Fetch and Generate Blog Posts
+    name: Update the example on the README
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate
-        uses: ErrorGamer2000/github-readme-blog-post-action@v1
+        uses: ./
         with:
           feed_urls: "https://dev.to/feed/mpetry"
+          max_posts_per_url: 5
+          position_indicator: "post-list"
+          locale: "en-US"
+          time_zone: "America/Denver"
+          output_dir: "generated_files"
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Save Generated Blog Posts
+          commit_message: Save generated content
           skip_checkout: true
