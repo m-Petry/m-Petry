@@ -112,4 +112,17 @@
 -----
 
 <!-- blog-post-list:start -->
+## DEV Community 👩‍💻👨‍💻\: Marcelo Petry
+
+The latest articles on DEV Community 👩‍💻👨‍💻 by Marcelo Petry \(@mpetry\).
+
+[Read more](https://dev.to/mpetry)
+> Last updated: Monday, December 19, 2022 at 11:01:04 PM
+
+> Showing 2 of 2 posts.
+
+[![⚛️Componentes Funcionais e de Classe em React⚛️](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛️Componentes_Funcionais_e_de_Classe_em_React⚛️.svg)](https://dev.to/mpetry/componentes-funcionais-e-de-classe-em-react-150c)
+[![🚀 10 Padrões de Commit para Alavancar o Seu GitHub! 🚀](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/🚀_10_Padrões_de_Commit_para_Alavancar_o_Seu_GitHub!_🚀.svg)](https://dev.to/mpetry/10-padroes-de-commit-para-alavancar-o-seu-github-4ilj)
+
+
 <!-- blog-post-list:end -->
