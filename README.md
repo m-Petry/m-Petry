@@ -110,7 +110,7 @@
 <br>
 
 -----
-
+<div align="center">
 <!-- blog-post-list:start -->
 ## DEV Community 👩‍💻👨‍💻\: Marcelo Petry
 
@@ -126,3 +126,4 @@ The latest articles on DEV Community 👩‍💻👨‍💻 by Marcelo Petry \(@
 
 
 <!-- blog-post-list:end -->
+</div>
