@@ -58,11 +58,16 @@
 	![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 	![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)\
 	![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=008cdd)&nbsp;
-	![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-<br>
+	![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=F08F10)&nbsp;
 	
 - **Extras**:
-
+	
+	![Word](https://img.shields.io/badge/-Word-05122A?style=flat&logo=microsoftword&logoColor=008cdd)&nbsp;
+	![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel&logoColor=1D6F42)&nbsp;
+	![PowerPoint](https://img.shields.io/badge/-PowerPoint-05122A?style=flat&logo=microsoftPowerPoint&logoColor=orange)&nbsp;
+	![SharePoint](https://img.shields.io/badge/-SharePoint-05122A?style=flat&logo=microsoftSharePoint&logoColor=02767A)\
+	![Teams](https://img.shields.io/badge/-Teams-05122A?style=flat&logo=microsoftTeams&logoColor=777FE4)&nbsp;
+	![Meet](https://img.shields.io/badge/-Meet-05122A?style=flat&logo=googleMeet&logoColor=1E8053)&nbsp;
 </p>
 <br>
 
@@ -74,8 +79,9 @@
 <div align="center">
 
 <a href="https://github.com/m-petry/">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-Petry&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-Petry&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="m-Petry"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-Petry&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=prs,issues,contribs" width="400" align="center"/>
+	<br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-Petry&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="m-Petry" align="center"/>
 
 </a>
 </div>
