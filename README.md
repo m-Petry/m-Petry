@@ -110,11 +110,7 @@
 <br>
 
 -----
-
-<div align="center">
 	
 <!-- blog-post-list:start -->
 
 <!-- blog-post-list:end -->
-	
-</div>
