@@ -94,19 +94,14 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" align="center" width ="50"><b>Let's Connect!</b>
 <br>
-
+<div align="center">
 <a href="https://marcelopetry.com" target="_blank">
-<img src="https://img.shields.io/badge/portfolio:  website-%2300acee.svg?color=161616&style=for-the-badge&logo=monster&logoColor=white" alt=portfolio-website style="margin-bottom: 5px;"/>
-</a>
-
-<br>
-<div align='left'>
+<img src="https://img.shields.io/badge/portfolio  website-%2300acee.svg?color=161616&style=for-the-badge&logo=monster&logoColor=white" alt=portfolio-website/>
+</a>&nbsp; &nbsp;
 
 <a href="https://linkedin.com/in/m-petry" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  mPetry-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-
-<br>
+</a>&nbsp; &nbsp;
 
 <a href="mailto:marcelospetry@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  marcelospetry-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 10px;" />
