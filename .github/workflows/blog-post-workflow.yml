@@ -16,9 +16,9 @@ jobs:
           feed_urls: "https://dev.to/feed/mpetry"
           max_posts_per_url: 5
           position_indicator: "post-list"
-          locale: "en-US"
-          time_zone: "America/Denver"
-          output_dir: "generated_files"
+          locale: "pt-BR"
+          time_zone: "America/Sao_Paulo"
+          show_post_count: "false"
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
