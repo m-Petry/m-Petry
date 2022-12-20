@@ -117,7 +117,6 @@
 <!-- blog-post-list:end -->
 
 </div>
-	
 <br>
 
 -----
