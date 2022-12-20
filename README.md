@@ -119,13 +119,13 @@
 The latest articles on DEV Community 👩‍💻👨‍💻 by Marcelo Petry \(@mpetry\).
 
 [Read more](https://dev.to/mpetry)
-> Last updated: Tuesday, December 20, 2022 at 8:51:02 PM
+> Last updated: terça-feira, 20 de dezembro de 2022 20:35:59
 
-> Showing 3 of 3 posts.
+> Showing 3 of 4 posts.
 
+[![✂Destructuring em JavaScript e React⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/✂Destructuring_em_JavaScript_e_React⚛.svg)](https://dev.to/mpetry/destructuring-em-javascript-e-react-5ch5)
 [![⚠150+ Expressões JavaScript Que Você Precisa Conhecer⚠](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚠150+_Expressões_JavaScript_Que_Você_Precisa_Conhecer⚠.svg)](https://dev.to/mpetry/150-expressoes-javascript-que-voce-precisa-conhecer-2on)
 [![⚛️Componentes Funcionais e de Classe em React⚛️](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛️Componentes_Funcionais_e_de_Classe_em_React⚛️.svg)](https://dev.to/mpetry/componentes-funcionais-e-de-classe-em-react-150c)
-[![🚀 10 Padrões de Commit para Alavancar o Seu GitHub! 🚀](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/🚀_10_Padrões_de_Commit_para_Alavancar_o_Seu_GitHub!_🚀.svg)](https://dev.to/mpetry/10-padroes-de-commit-para-alavancar-o-seu-github-4ilj)
 
 
 <!-- blog-post-list:end -->
