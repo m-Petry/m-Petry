@@ -11,7 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate
-        uses: ./
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: "https://dev.to/feed/mpetry"
           max_posts_per_url: 5
