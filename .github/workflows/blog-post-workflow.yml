@@ -13,7 +13,7 @@ jobs:
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: "https://dev.to/feed/mpetry"
-          max_posts_per_url: 4
+          max_posts_per_url: 5
           position_indicator: "post-list"
           locale: "pt-BR"
           time_zone: "America/Sao_Paulo"
