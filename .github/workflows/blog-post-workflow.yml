@@ -13,6 +13,9 @@ jobs:
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: "https://dev.to/feed/mpetry"
+          max_posts_per_url: 3
+          locale: "pt-BR"
+          time_zone: "America/Sao_Paulo"
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
