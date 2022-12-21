@@ -119,10 +119,11 @@
 The latest articles on DEV Community 👩‍💻👨‍💻 by Marcelo Petry \(@mpetry\).
 
 [Read more](https://dev.to/mpetry)
-> Last updated: quarta-feira, 21 de dezembro de 2022 09:08:49
+> Last updated: quarta-feira, 21 de dezembro de 2022 11:48:56
 
-> Showing 3 of 4 posts.
+> Showing 4 of 5 posts.
 
+[![⚛Os 10 React Hooks Mais Úteis: 01 - useState⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__01_-_useState⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-01-usestate-2c6n)
 [![✂Destructuring em JavaScript e React⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/✂Destructuring_em_JavaScript_e_React⚛.svg)](https://dev.to/mpetry/destructuring-em-javascript-e-react-5ch5)
 [![⚠150+ Expressões JavaScript Que Você Precisa Conhecer⚠](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚠150+_Expressões_JavaScript_Que_Você_Precisa_Conhecer⚠.svg)](https://dev.to/mpetry/150-expressoes-javascript-que-voce-precisa-conhecer-2on)
 [![⚛️Componentes Funcionais e de Classe em React⚛️](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛️Componentes_Funcionais_e_de_Classe_em_React⚛️.svg)](https://dev.to/mpetry/componentes-funcionais-e-de-classe-em-react-150c)
