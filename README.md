@@ -11,14 +11,14 @@
 
 <br>
 
-- I am 33 years old & I live in Porto Alegre, RS - Brazil;
-- I'm studying my second degree course, this time it's `Bachelor in Information Systems` with completion scheduled for 2023/02;
-- I have more than [40 IT certificates](https://www.linkedin.com/in/m-petry/details/certifications/) that add up to more than 2,000 hours;
-- I worked for more than [10 years in public administration](https://www.linkedin.com/in/m-petry/details/experience/) in the Federal Government of Brazil;
-- I am currently open for an `internship` or `Jr development` opportunity;
-- My `personal website` you can see in this [link](https://marcelopetry.com);
-- You can dowload the [short resume](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing) & see my `full qualifications` on [LinkedIn](https://linkedin.com/m-petry);
-- Any `questions` you may have, please [get in touch 😄](https://api.whatsapp.com/send/?phone=5551994085461&text=Msg+from+the+portfolio+website&type=phone_number&app_absent=0).
+- I am 33 years old and live in Porto Alegre, Brazil;
+- I am currently pursuing my second degree, a `Bachelor in Information Systems`, which is scheduled to be completed in February 2024;
+- I have over [40 IT certifications](https://www.linkedin.com/in/m-petry/details/certifications/) totaling more than 2,000 hours of training;
+- I worked in public administration in the Federal Government of Brazil for over [10 years](https://www.linkedin.com/in/m-petry/details/experience/);
+- I am open to `internships` or `junior development` opportunities;
+- My `personal website` can be found at this [link](https://marcelopetry.com);
+- You can dowload my [brief CV](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing) or view my `full qualifications` on [LinkedIn](https://linkedin.com/m-petry);
+- Please don't hesitate to [contact me](https://api.whatsapp.com/send/?phone=5551994085461&text=Hey&type=phone_number&app_absent=0) with any questions 😄.
 <br><br>
 -----
 
