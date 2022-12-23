@@ -119,14 +119,14 @@
 The latest articles on DEV Community 👩‍💻👨‍💻 by Marcelo Petry \(@mpetry\).
 
 [Read more](https://dev.to/mpetry)
-> Last updated: quinta-feira, 22 de dezembro de 2022 15:06:35
+> Last updated: quinta-feira, 22 de dezembro de 2022 21:27:01
 
-> Showing 4 of 6 posts.
+> Showing 4 of 7 posts.
 
+[![⚛Os 10 React Hooks Mais Úteis: 02 - useEffect⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__02_-_useEffect⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-02-useeffect-34di)
 [![Como Usar o Spread Operator (…) em React ⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/Como_Usar_o_Spread_Operator_(…)_em_React_⚛.svg)](https://dev.to/mpetry/como-usar-o-spread-operator-em-react-22jb)
 [![⚛Os 10 React Hooks Mais Úteis: 01 - useState⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__01_-_useState⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-01-usestate-2c6n)
 [![✂Destructuring em JavaScript e React⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/✂Destructuring_em_JavaScript_e_React⚛.svg)](https://dev.to/mpetry/destructuring-em-javascript-e-react-5ch5)
-[![⚠150+ Expressões JavaScript Que Você Precisa Conhecer⚠](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚠150+_Expressões_JavaScript_Que_Você_Precisa_Conhecer⚠.svg)](https://dev.to/mpetry/150-expressoes-javascript-que-voce-precisa-conhecer-2on)
 
 
 <!-- blog-post-list:end -->
