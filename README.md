@@ -98,7 +98,7 @@
 <img src="https://img.shields.io/badge/portfolio  website-%2300acee.svg?color=292929&style=for-the-badge&logo=Linkfire&logoColor=white" alt=portfolio-website />
 </a>&nbsp;
 
-&nbsp;<a href="https://linkedin.com/in/m-petry" target="_blank">
+<a href="https://linkedin.com/in/m-petry" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  mPetry-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>&nbsp;
 &nbsp;<a href="mailto:marcelospetry@gmail.com" target="_blank">
