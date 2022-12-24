@@ -94,11 +94,11 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" align="center" width ="50"><b>Let's Connect!</b>
 <br>
 <div align="center">
-&nbsp;<a href="https://marcelopetry.com" target="_blank" rel="noopener noreferrer">
+<a href="https://marcelopetry.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/portfolio  website-%2300acee.svg?color=292929&style=for-the-badge&logo=Linkfire&logoColor=white" alt=portfolio-website />
 </a>&nbsp;
 
-<a href="https://linkedin.com/in/m-petry" target="_blank">
+&nbsp;<a href="https://linkedin.com/in/m-petry" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  mPetry-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>&nbsp;
 &nbsp;<a href="mailto:marcelospetry@gmail.com" target="_blank">
