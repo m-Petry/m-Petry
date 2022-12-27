@@ -117,14 +117,14 @@
 The latest articles on DEV Community 👩‍💻👨‍💻 by Marcelo Petry \(@mpetry\).
 
 [Read more](https://dev.to/mpetry)
-> Last updated: segunda-feira, 26 de dezembro de 2022 15:04:18
+> Last updated: segunda-feira, 26 de dezembro de 2022 21:28:01
 
-> Showing 4 of 8 posts.
+> Showing 4 of 9 posts.
 
+[![⚛Os 10 React Hooks Mais Úteis: 04 - useRef⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__04_-_useRef⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-04-useref-4kbi)
 [![⚛Os 10 React Hooks Mais Úteis: 03 - useContext⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__03_-_useContext⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-03-usecontext-469f)
 [![⚛Os 10 React Hooks Mais Úteis: 02 - useEffect⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__02_-_useEffect⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-02-useeffect-34di)
 [![Como Usar o Spread Operator (…) em React ⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/Como_Usar_o_Spread_Operator_(…)_em_React_⚛.svg)](https://dev.to/mpetry/como-usar-o-spread-operator-em-react-22jb)
-[![⚛Os 10 React Hooks Mais Úteis: 01 - useState⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__01_-_useState⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-01-usestate-2c6n)
 
 
 <!-- blog-post-list:end -->
