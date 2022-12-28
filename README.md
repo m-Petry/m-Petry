@@ -101,7 +101,7 @@
 &nbsp;<a href="https://linkedin.com/in/m-petry" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  mPetry-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>&nbsp;
-&nbsp;<a href="mailto:marcelospetry@gmail.com" target="_blank">
+&nbsp;<a href="mailto:marcelospetry@gmail.com">
 <img src="https://img.shields.io/badge/gmail:  marcelospetry-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>&nbsp;
 </div>
