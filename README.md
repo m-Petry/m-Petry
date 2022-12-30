@@ -94,7 +94,7 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" align="center" width ="50"><b>Let's Connect!</b>
 <br>
 <div align="center">
-<a href="https://marcelopetry.com" target="_blank" rel="noopener noreferrer">
+<a href="https://marcelopetry.com" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/portfolio  website-%2300acee.svg?color=292929&style=for-the-badge&logo=Linkfire&logoColor=white" alt=portfolio-website />
 </a>&nbsp;
 
