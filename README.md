@@ -117,14 +117,14 @@
 The latest articles on DEV Community 👩‍💻👨‍💻 by Marcelo Petry \(@mpetry\).
 
 [Read more](https://dev.to/mpetry)
-> Last updated: terça-feira, 3 de janeiro de 2023 21:27:13
+> Last updated: quarta-feira, 4 de janeiro de 2023 03:07:06
 
 > Showing 4 of 12 posts.
 
+[![JS map(), filter() e reduce() em React](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/JS_map()__filter()_e_reduce()_em_React.svg)](https://dev.to/mpetry/js-map-filter-e-reduce-em-react-2o5c)
 [![⚛Os 10 React Hooks Mais Úteis: 06 - useCallback⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__06_-_useCallback⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-06-usecallback-4di)
 [![⚛ React Lifecycle 🔃](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛_React_Lifecycle_🔃.svg)](https://dev.to/mpetry/react-lifecycle-a87)
 [![⚛Os 10 React Hooks Mais Úteis: 05 - useReducer⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__05_-_useReducer⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-05-usereducer-f9j)
-[![⚛Os 10 React Hooks Mais Úteis: 04 - useRef⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__04_-_useRef⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-04-useref-4kbi)
 
 
 <!-- blog-post-list:end -->
