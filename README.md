@@ -117,14 +117,14 @@
 The latest articles on DEV Community 👩‍💻👨‍💻 by Marcelo Petry \(@mpetry\).
 
 [Read more](https://dev.to/mpetry)
-> Last updated: quinta-feira, 5 de janeiro de 2023 09:09:29
+> Last updated: quinta-feira, 5 de janeiro de 2023 15:06:26
 
 > Showing 4 of 12 posts.
 
+[![⚛Os 10 React Hooks Mais Úteis: 07 - useMemo⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__07_-_useMemo⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-07-usememo-cpi)
 [![JS map(), filter() e reduce() em React](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/JS_map()__filter()_e_reduce()_em_React.svg)](https://dev.to/mpetry/js-map-filter-e-reduce-em-react-2o5c)
 [![⚛Os 10 React Hooks Mais Úteis: 06 - useCallback⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__06_-_useCallback⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-06-usecallback-4di)
 [![⚛ React Lifecycle 🔃](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛_React_Lifecycle_🔃.svg)](https://dev.to/mpetry/react-lifecycle-a87)
-[![⚛Os 10 React Hooks Mais Úteis: 05 - useReducer⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__05_-_useReducer⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-05-usereducer-f9j)
 
 
 <!-- blog-post-list:end -->
