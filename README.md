@@ -17,7 +17,7 @@
 - I worked in public administration in the Federal Government of Brazil for over [10 years](https://www.linkedin.com/in/m-petry/details/experience/);
 - I am open to `internships` or `junior development` opportunities;
 - My `personal website` can be found at this [link](https://marcelopetry.com);
-- You can dowload my [brief CV](https://drive.google.com/file/d/11kbPdiP-pynvs9X6z6-DnjhXk-SeKrKA/view?usp=sharing) or view my `full qualifications` on [LinkedIn](https://linkedin.com/m-petry);
+- You can dowload my [brief CV](https://drive.google.com/file/d/1qtOX1phLv0QWrrr4auKESGrV2oRC2HYF/view?usp=sharing) or view my `full qualifications` on [LinkedIn](https://linkedin.com/m-petry);
 - Please don't hesitate to [contact me](https://api.whatsapp.com/send/?phone=5551994085461&text=Hey&type=phone_number&app_absent=0) with any questions 😄.
 <br><br>
 -----
