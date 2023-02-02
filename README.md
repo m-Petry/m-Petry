@@ -117,14 +117,14 @@
 The latest articles on DEV Community 👩‍💻👨‍💻 by Marcelo Petry \(@mpetry\).
 
 [Read more](https://dev.to/mpetry)
-> Last updated: quarta-feira, 1 de fevereiro de 2023 21:30:50
+> Last updated: quinta-feira, 2 de fevereiro de 2023 03:07:02
 
 > Showing 4 of 12 posts.
 
+[![🛣O Guia Definitivo sobre Rotas com React Router](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/🛣O_Guia_Definitivo_sobre_Rotas_com_React_Router.svg)](https://dev.to/mpetry/o-guia-definitivo-para-rotas-com-react-router-4n5h)
 [![⚛Os 10 React Hooks Mais Úteis: 07 - useMemo⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__07_-_useMemo⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-07-usememo-cpi)
 [![JS map(), filter() e reduce() em React](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/JS_map()__filter()_e_reduce()_em_React.svg)](https://dev.to/mpetry/js-map-filter-e-reduce-em-react-2o5c)
 [![⚛Os 10 React Hooks Mais Úteis: 06 - useCallback⚛](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛Os_10_React_Hooks_Mais_Úteis__06_-_useCallback⚛.svg)](https://dev.to/mpetry/os-10-react-hooks-mais-uteis-06-usecallback-4di)
-[![⚛ React Lifecycle 🔃](https://raw.githubusercontent.com/m-Petry/m-Petry/main/blog-post-list-output/DEV_Community_👩‍💻👨‍💻__Marcelo_Petry/⚛_React_Lifecycle_🔃.svg)](https://dev.to/mpetry/react-lifecycle-a87)
 
 
 <!-- blog-post-list:end -->
