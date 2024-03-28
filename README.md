@@ -117,7 +117,7 @@
 The latest articles on DEV Community by Marcelo Petry \(@mpetry\).
 
 [Read more](https://dev.to/mpetry)
-> Last updated: quarta-feira, 27 de março de 2024 21:26:29
+> Last updated: quinta-feira, 28 de março de 2024 03:07:37
 
 > Showing 4 of 12 posts.
 
